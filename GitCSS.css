@@ -7,10 +7,11 @@ h1{
     font-size: 500%;
     font-family: fantasy;
 }
-header{
+#uno{
     font-family: fantasy;
-    background-image: url(https://www.icegif.com/wp-content/uploads/2022/12/icegif-942.gif);
+    background-image: url(https://i.pinimg.com/originals/c2/98/95/c298950f597cc4ba4b27ac44227b2a62.gif);
     font-size: 200%;
+    background-size: auto;
 }
 h3{
     font-weight: bold;
@@ -19,4 +20,7 @@ h3{
 * {
   padding: 0;
   margin: 0;
+}
+#dos{
+    background-color: white;
 }
